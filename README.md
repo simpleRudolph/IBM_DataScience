@@ -1,3 +1,3 @@
-# IBM Data Science es lo mejor de lo mejor del mundo mundial
+# IBM Data Science 
 ## Trabajo práctico
 Uso de Jupiter Notebook y GitHub
